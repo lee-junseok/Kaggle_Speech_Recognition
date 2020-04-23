@@ -1,5 +1,5 @@
-# Kaggle_Speech_Recognition
-## TensorFlow Speech Recognition Challenge
+# Speech_Recognition
+## Kaggle TensorFlow Speech Recognition Challenge
 
 ### Can you build an algorithm that understands simple speech commands?
 '''
@@ -9,3 +9,5 @@ But, for independent makers and entrepreneurs, it’s hard to build a simple spe
 
 In this competition, you're challenged to use the Speech Commands Dataset to build an algorithm that understands simple spoken commands. By improving the recognition accuracy of open-sourced voice interface tools, we can improve product effectiveness and their accessibility.
 '''
+
+Built a Speech Recognition model using Keras Sequential Conv1D Neural Network.
