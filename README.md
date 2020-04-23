@@ -2,8 +2,7 @@
 
 This is a short deep learning project to recognize words in audio files. I built a Speech Recognition model using Keras Sequential Conv1D Neural Network.
 
-Data from Kaggle TensorFlow Speech Recognition Challenge:
-
+Data from Kaggle TensorFlow Speech Recognition Challenge:\n
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
 
 ### Description
