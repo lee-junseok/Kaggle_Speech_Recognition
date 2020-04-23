@@ -1,13 +1,12 @@
 # Speech_Recognition
-
+## Can you build an algorithm that understands simple speech commands?
 This is a short deep learning project to recognize words in audio files. I built a Speech Recognition model using Keras Sequential Conv1D Neural Network.
 
 Data from Kaggle TensorFlow Speech Recognition Challenge:
 https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
 
-### Description
+### Challenge Description
 '''
-- Can you build an algorithm that understands simple speech commands?
 
 We might be on the verge of too many screens. It seems like everyday, new versions of common objects are “re-invented” with built-in wifi and bright touchscreens. A promising antidote to our screen addiction are voice interfaces.
 
